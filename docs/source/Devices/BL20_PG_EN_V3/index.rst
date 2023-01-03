@@ -69,7 +69,7 @@ Show me some more stuff, please
 
 We can also include figures:
 
-.. image:: /_Images/Factory.png
+.. figure:: /_Images/Factory.png
 
 
    Png is a file format that is both acceptable for html pages as well as for (pdf)latex.
