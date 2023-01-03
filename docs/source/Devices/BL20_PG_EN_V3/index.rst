@@ -69,7 +69,7 @@ Show me some more stuff, please
 
 We can also include figures:
 
-.. figure:: /_Images/image.png
+.. figure:: /_Images/Image.png
    :width: 300pt
 
 
