@@ -2,15 +2,3 @@
     --linkColor: #0fdf49;
     --mainNavColor: #1b622f;
 }
-
-div.sphinxsidebar {
-    width: 20rem;
-}
-
-div.document {
-    margin-left: 20rem;
-}
-
-div.document div.documentwrapper {
-    max-width: 60rem;
-}
