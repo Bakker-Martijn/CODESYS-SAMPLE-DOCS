@@ -4,9 +4,20 @@ EnumSample (dut)
 ================
 
 
-Adding a some info at the top of page is also possible!
-In here the ``StructuredText`` format can also be used!
+The ``StructuredText`` format is used in the content.
+this page is generated like so:
 
+.. image:: /_Images/SampleEnumSample.png
+
+
+ENUM
+~~~~~~~~~~~~~~~~~~~~
+
+================================  ============  ===============================
+Name                              Value         Comment                          
+================================  ============  ===============================
+this page is generated like so    .. image *    /_Images/SampleEnumSample.png    
+================================  ============  ===============================
 
 ENUM
 ~~~~~~~~~~~~~~~~~~~~

@@ -3,15 +3,13 @@
 FolderOne
 =========================================
 
-A custom info page for this folder!
+This is an example folder
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-That is something that is also possible whith this export script!
+To demonstrate how the folders are exported.
 
 
 .. toctree::
    :maxdepth: 1
 
-   EnumSample.rst
-   Structure.rst
    SamplePOU.rst
+   EnumSample.rst
